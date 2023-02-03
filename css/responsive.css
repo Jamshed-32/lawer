@@ -1,0 +1,108 @@
+@media screen and (min-width:390px) and (max-width:767px) {}
+
+@media screen and (min-width:320px) and (max-width:550px) {
+    .circle_2 {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        background: rgba(110, 168, 255, 0.1);
+        border-radius: 50%;
+        left: 35px;
+        /* left: -485.81px; */
+        top: 92.49px;
+    }
+
+
+    .circle_1 {
+        width: 350px;
+        height: 350px;
+        border-radius: 50%;
+        background: rgba(110, 168, 255, 0.1);
+        position: absolute;
+        left: 20px;
+        top: 900px;
+    }
+
+    .banner_button {
+        width: 100%;
+    }
+
+    .banner_button h5 {
+        font-size: 12px;
+    }
+
+    .banner_item h1 {
+        font-size: 41px;
+    }
+
+    .banner_text {
+        background: #FFFFFF;
+        border-radius: 10px;
+        width: 325px;
+        /* text-align: center; */
+        /* align-items: center; */
+        height: 114px;
+        left: 0;
+        top: 1546px;
+        position: absolute;
+    }
+
+    .help_section h2 {
+        font-size: 23px;
+        line-height: 37px;
+    }
+
+
+    .help_item {
+        width: 205px;
+        height: 290px;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    #count {
+        padding: 0;
+    }
+
+    .count_section .count_item .item_p {
+        font-size: 10px;
+    }
+
+    .count_item {
+        margin-bottom: 20px;
+    }
+
+    .count_section h3 {
+        font-size: 30px;
+    }
+
+    .count_section p {
+        font-size: 10px;
+    }
+
+    .testimonial_selector {
+        margin-left: 0;
+    }
+
+    .text_item {
+        margin-right: 10px;
+    }
+
+    .complex_item h2 {
+        font-size: 40px;
+    }
+
+    .complex_item p {
+        font-size: 20px;
+    }
+
+    #Product {
+        padding: 15px;
+        height: 350px;
+    }
+
+
+    #main_menu{
+        margin: auto;
+    }
+}
